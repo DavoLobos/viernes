@@ -1,2 +1,3 @@
 Hoy es viernes y este es el primer ensayo de clone, cd, touch, nano crear
 Ahora modificar.
+Esto es así de facil.
